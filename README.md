@@ -3,6 +3,10 @@
 ## Overview
 The **Chelsea FC Fan Club** website is a front-end project built with HTML and CSS to demonstrate my web development skills. Designed for fans of Chelsea Football Club, it provides an engaging platform to explore club information, upcoming matches, top players, and a fan gallery. The site is fully responsive, ensuring a seamless experience across mobile, tablet, and desktop devices.
 
+**Live Demo**
+
+- [Live Link](https://johnnys17.github.io/chelseafc/)
+
 ## Features
 - **Responsive Design**: Optimized for various screen sizes using CSS media queries, flexbox, and fluid layouts.
 - **Hero Section**: A visually striking header with a stadium image and centered club title using absolute positioning and opacity effects.
