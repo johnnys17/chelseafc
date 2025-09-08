@@ -24,3 +24,16 @@ The **Chelsea FC Fan Club** website is a front-end project built with HTML and C
 ## Purpose
 This project was created to showcase my proficiency in HTML and CSS as part of my portfolio for job applications. It demonstrates my ability to build a visually appealing, user-friendly, and responsive website with clean code and modern design principles.
 
+## Author
+
+😎 JohnnyFSE
+
+📍 Orlando, Florida 
+
+📧 percussionjohnny@yahoo.com 
+
+✖️ [X](https://x.com/JohnnyFSE)
+
+🔗 [GitHub Profile](https://github.com/johnnys17)
+
+Feel free to explore the code, suggest improvements, or use it as inspiration.
